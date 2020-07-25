@@ -1,0 +1,33 @@
+* {margin: 0; padding: 0;}
+li {list-style: none;}
+a {text-decoration: none;}
+img {border: 0;}
+header {
+    height: 100px;
+    background-color: black;
+    overflow: hidden;
+}
+#div_logo {
+	display: inline-block;
+	width: 295.67px;
+	height: 100px;
+}
+#logo {
+	display: inline-block;
+    height: 100px;
+    float: left;
+}
+nav {
+	display: inline-block;
+	width: 500px;
+	height: 100px;
+	float: right;
+	text-align: center;
+	line-height: 100px;
+}
+.main-menu {
+	display: inline-block;
+	font-family: 'Cantarell', sans-serif;
+	color: white;
+	padding: 0 10px;
+}
